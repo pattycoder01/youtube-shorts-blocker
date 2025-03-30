@@ -1,0 +1,1 @@
+window.location.href = "https://pattycoder01.github.io/custom/noshorts.html";
